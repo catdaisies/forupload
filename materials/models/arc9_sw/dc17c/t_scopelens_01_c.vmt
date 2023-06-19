@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$basetexture "models/SW_Battlefront/Weapons/Valken_38x/lense"
+$vertexcolor "1"
+$vertexalpha "1"
+}
